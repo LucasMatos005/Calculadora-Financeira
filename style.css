@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.corpo{
+    background-color: lightslategrey;
+}
+.img{
+    display: flex;
+    width: 250px;
+    height: 200px;
+    align-items:end;
+    border-radius: 15%;
+}
+.titulo{
+    margin: 10px,180px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    align-items: center;
+}
+.container{
+    display:flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+}
+
+.divisoria{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.resultado{
+    display: flex;
+    justify-content: space-around;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    background-color: aliceblue;
+    width: 90%;
+    border: 2px black solid;
+}
+
+.box{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin-top: 20px;
+}

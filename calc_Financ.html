@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SensSky - Calculadora Financeira</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body class="corpo">
+    <div class="container">
+        <div>
+            <img class="img" src="./logo.jpeg" alt="Logo do projeto">
+        </div>
+        <div class="divisoria">
+            <h1 class="titulo">Olá, seja bem vindo a Calculadora Financeira do Projeto SensSky</h1>
+            <br>
+            <br>
+            Insira o modelo do Avião: <input type="text" id="flight_model">
+            <br>
+            <br>
+            Insira o modelo do Motor: <input type="text" id="engine_model">
+            <br>
+            <br>
+            Insira a quantidade de motores que o avião possui: <input type="number" id="qtd_motores">
+            <br>
+            <br>
+            Insira o número de compressores que o motor do avião possui: <input type="number" id="qtd_compressores">
+            <br>
+            <br>
+            Insira o número de Câmaras de combustão que o motor do avião possui: <input type="number" id="qtd_camaras">
+            <br>
+            <br>
+            Insira o número de computadores de controle que o motor do avião possui: <input type="number"
+                id="qtd_pcFlight">
+            <br>
+            <br>
+            <button onclick="calcular()">Cálculo de despesas</button>
+        </div>
+    </div>
+    <div class="box" id="div_box"></div>
+</body>
+</html>
+<script src="./regraDeNegocio.js">
+</script>

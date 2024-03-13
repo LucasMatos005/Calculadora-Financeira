@@ -1,5 +1,6 @@
 # Calculadora-Financeira
-Calculadora financeira do Projeto SensSky
+Calculadora financeira do Projeto SensSky.
+
     Durante o uso dos motores de avião e com a falta de monitoramento da temperatura destes
 é comum que haja um desgaste de peças cruciais para o bom desempelho da aeronave. Pensando 
 nisso, foram escolhidas três peças do motor para compor o cálculo de despesas caso não haja

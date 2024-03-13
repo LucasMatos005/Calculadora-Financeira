@@ -8,8 +8,8 @@ de controle.
 
 Faixa aproximada de preços dos equipamentos:
 
-R$ 700,00 - Compressor
-R$ 12.440,00 - Câmara de combustão
+R$ 700,00 - Compressor |
+R$ 12.440,00 - Câmara de combustão |
 R$ 3.732,00 - Computador de Controle
 
  Exemplos de Inputs:

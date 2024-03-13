@@ -25,7 +25,7 @@ function calcular(){
         `<div class="resultado" id="div_result">
         Sobre o avião modelo: ${modeloAviao}, e modelo de motor: ${modeloMotor}...
 
-         O gasto aproximado com a manutenção de peças que mais causam problema devido ao superaquecimento 
+         O gasto aproximado com a manutenção de peças que mais causam problema devido ao superaquecimento do motor  
          é de: ${total}. <br> Sendo que o gasto com Compressores foi de: ${quantidadeCompRS} <br>
          com Câmaras de combustão: ${gastoCamarasRS} <br> e com Computadores de controle: ${quantidadepcsRS}.</div>`;
 }
